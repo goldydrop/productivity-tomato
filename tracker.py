@@ -96,7 +96,7 @@ saved_config = load_config()
 # --- GLOBAL VARIABLES ---
 USER_ROLE = saved_config.get("role", "Student")
 USER_GOAL = saved_config.get("goal", "Studying Python coding")
-ALLOWED_TOOLS = saved_config.get("allowed", "VS Code, StackOverflow, Command Prompt, Gemini, Windows PowerShell") 
+ALLOWED_TOOLS = saved_config.get("allowed", "VS Code, StackOverflow, Command Prompt, Gemini, Windows PowerShell, System tray overflow window") 
 BLOCK_LIST = saved_config.get("blocked", "Reddit, Twitter, TikTok, Instagram, Facebook")  
 
 SHOULD_DROP_TOMATO = False 
