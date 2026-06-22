@@ -1,4 +1,4 @@
-# 🍅 Productivity Tomato (Fomi)
+# 🍅 Productivity Tomato (Pomi)
 
 A privacy-first, locally-run productivity tool that lives silently in your Windows system tray, monitors your workspace, and utilizes **Edge AI** to detect non-productive distractions. When you wander off-task, it overlays an aggressive tomato splash on your screen paired with dynamic psychological interventions to get you back to work!
 
